@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Mechatronics Engineer currently working with Autonomous Ships at the Naval Systems Analysis Center of the Brazilian Navy. I also hold the rank of First Lieutenant in the Brazilian Navy, having graduated from the Naval Academy with a degree in Electronics. My career blends advanced engineering and naval operations, driven by a passion for innovation and technology in the maritime domain. My expertise lies in the development and analysis of autonomous maritime systems, ensuring the seamless integration of cutting-edge technology in naval applications. My professional journey is marked by a commitment to excellence and a dedication to advancing naval capabilities through technological innovation.
+I am a Mechatronics Engineer, having graduated from the University of São Paulo (USP), where I was awarded the prize for the best final paper of the course. I am currently working with Autonomous Ships at the Naval Systems Analysis Center of the Brazilian Navy. I also hold the rank of First Lieutenant in the Brazilian Navy, having graduated from the Naval Academy with a degree in Electronics. My career blends advanced engineering and naval operations, driven by a passion for innovation and technology in the maritime domain. My expertise lies in the development and analysis of autonomous maritime systems, ensuring the seamless integration of cutting-edge technology in naval applications. My professional journey is marked by a commitment to excellence and a dedication to advancing naval capabilities through technological innovation.
 
 A data-driven personal website
 ======
@@ -23,6 +23,9 @@ Experience
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
+
+**Lighthouse Hydroceanographic Ship "Almirante Graça Aranha"**
+Head of Electronical Division
 
 Site-wide configuration
 ------
