@@ -2,12 +2,18 @@
 title: "Towards Autonomous Control System in Brazilian Navy’s USV-Lab Using MOOS-IvP Framework"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-09-03
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Final Paper of Bsc in Mechatronics Engineering'
+date: 2024-09-11
+venue: 'IFAC-PapersOnLine'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S240589632401783X'
+citation: "Douglas Silva de Lima et al., Towards Autonomous Control System in Brazilian Navy's USV-Lab using MOOS-IvP framework, IFAC-PapersOnLine, 58(20), 2024, pp. 35-40, https://doi.org/10.1016/j.ifacol.2024.10.029."
+
+
+
+
+
+
+'
 ---
 
 ![image](https://github.com/user-attachments/assets/7a009f2f-cb27-4338-be93-b19c68d255f7)
